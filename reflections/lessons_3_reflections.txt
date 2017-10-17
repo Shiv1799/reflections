@@ -7,13 +7,14 @@ Ans-we might not need to pull all the changes so therefore automatic update of t
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+Ans-Fork is similar to clone but it is the feature provided by the GitHub to share the repository among the account of different GitHub users.
+Clone-it is the function of the git to copy the remote repository on the local computer.
+Braches -is used to make different versions of the product without disturbing the main Branch(master).
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+Ans-
+ 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
