@@ -17,7 +17,7 @@ Ans-Benefit of having last known state of remote locally is that we can reslove 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-Ans-
+Ans-I won't be able to collaborate without git or github and it would be definetly very hard for me if i would not use git an gitHub
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
