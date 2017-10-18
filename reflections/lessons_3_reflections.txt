@@ -22,4 +22,4 @@ Ans-I won't be able to collaborate without git or github and it would be definet
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+ Ans - Making changes into other branch helps us decide and take a feedback from the other people i am collaborating with thus helps to make my changes better and does not break my master branch.
